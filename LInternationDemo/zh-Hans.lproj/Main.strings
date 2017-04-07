@@ -1,0 +1,37 @@
+
+/* Class = "UINavigationItem"; title = "诶嘿"; ObjectID = "3Ma-8Y-yYh"; */
+"3Ma-8Y-yYh.title" = "诶嘿";
+
+/* Class = "UIViewController"; title = "详情"; ObjectID = "Glx-5Q-Jch"; */
+"Glx-5Q-Jch.title" = "详情";
+
+/* Class = "UIButton"; normalTitle = "按钮"; ObjectID = "Krx-30-qZC"; */
+"Krx-30-qZC.normalTitle" = "按钮";
+
+/* Class = "UILabel"; text = "标签"; ObjectID = "NXe-ak-eYI"; */
+"NXe-ak-eYI.text" = "标签";
+
+/* Class = "UINavigationItem"; title = "详情"; ObjectID = "m66-Lr-g5U"; */
+"m66-Lr-g5U.title" = "详情";
+
+/* Class = "UITabBarItem"; title = "第二页"; ObjectID = "m9D-0E-qgN"; */
+"m9D-0E-qgN.title" = "第二页";
+
+/* Class = "UILabel"; text = "标签"; ObjectID = "qKp-qx-9Jh"; */
+"qKp-qx-9Jh.text" = "标签";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "qmv-G6-KcY"; */
+"qmv-G6-KcY.title" = "首页";
+
+/* Class = "UINavigationItem"; title = "首页"; ObjectID = "uRe-nU-KdA"; */
+"uRe-nU-KdA.title" = "首页";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "wkb-hf-IdR"; */
+"wkb-hf-IdR.title" = " ";
+
+//##################################################################################
+//#           AutoGenStrings            2017-04-07 13:56:03
+//##################################################################################
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "J1O-9w-KH9"; */
+"J1O-9w-KH9.text" = "标签";
